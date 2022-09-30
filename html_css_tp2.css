@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    font-size: 2cm;
+}
+h3{
+    color: blue;
+    font-size: x-large;
+}
+.animal{
+    background-color: gray;
+}
+strong{
+    font-weight: 400;
+    color: yellowgreen;
+}
+em{
+    font-style: normal;
+    text-decoration: underline;
+    font-size: large;
+    color: orange;
+}
+#p1{
+    background-color: pink;
+
+}
+#t1{
+    text-decoration: underline;
+    text-align: right;
+    color: green;
+}
